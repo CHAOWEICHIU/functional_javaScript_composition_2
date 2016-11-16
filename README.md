@@ -43,7 +43,7 @@ console.log(femaleAgeAvg(students)) // 24.5
 > [functional_javaScript_composition_1](https://github.com/CHAOWEICHIU/functional_javaScript_composition_1)
 
 
-> [functional_javaScript_composition_2](https://github.com/CHAOWEICHIU/functional_javaScript_composition_1)
+> [functional_javaScript_composition_2](https://github.com/CHAOWEICHIU/functional_javaScript_composition_2)
 
 
 > [functional-javascript-purity](https://github.com/CHAOWEICHIU/functional-javascript-purity)
